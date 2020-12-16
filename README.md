@@ -1,2 +1,2 @@
 # Robotics-Theory-and-Application
-This repo is structured based on my understanding of how robotics is built upon elementary knowledge and how to decompose robotics project.
+This repo documents my understandings in the area of Control and Robotics, besides, all personal projects related to these areas are stored here too.
